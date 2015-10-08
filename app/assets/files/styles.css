@@ -1,0 +1,30 @@
+.input-xs{
+	height: 30px;
+	font-size: 10px;
+}
+
+.input-xs[readonly="readonly"]{
+	background:#FFF;
+}
+
+.textarea-cs{
+	font-size: 10px;
+}
+
+.textarea-cs[readonly="readonly"]{
+	background:#FFF;
+}
+
+.dash-buttons{
+	margin-bottom: 15px;
+}
+
+.encrypted[readonly="readonly"]{
+	background: #FFCFCF;
+}
+
+nav{
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+	border-radius: 0 !important;
+}
